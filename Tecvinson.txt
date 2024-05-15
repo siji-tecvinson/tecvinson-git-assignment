@@ -1,0 +1,23 @@
+1. Go to GitHub account/link: https://github.com/siji-tecvinson/tecvinson-git-assignment
+
+2. Fork the tecvinson-git-assignment repository into your own GitHub account
+
+3. In your GitHub account where you have Forked the tecvinson-git-assignment repo, meaning that you now have your own tecvinson-git-assignment Repository.
+
+4. Clone the tecvinson-git-assignment repository that you have Forked to your account.
+
+5. Create a new branch called “Tecvinson-Assignment”
+
+6. Switch the branch to “Tecvinson-Assignment” branch
+
+7. Create a new file called “Tecvinson.txt” in the root folder
+
+8. Add anything you like in “Tecvinson.txt” file
+
+9. Commit the changes and push to your own remote = tecvinson-git-assignment repository
+
+10. Open a Pull Request and try to merge “Tecvinson-Assignment” branch into the “main” branch of the forked tecvinson-git-assignment repository that is your GitHub account.
+
+11. Take a screen shot of the pull request and post it in Teams
+
+12. Also send the URL in Teams
